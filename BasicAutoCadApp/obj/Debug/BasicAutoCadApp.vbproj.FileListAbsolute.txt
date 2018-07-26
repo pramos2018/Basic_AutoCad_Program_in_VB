@@ -1,0 +1,11 @@
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Basic AutoCad App VB\Traning Visual Basic - v1\bin\Debug\BasicAutoCadApp.exe.config
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Basic AutoCad App VB\Traning Visual Basic - v1\bin\Debug\BasicAutoCadApp.exe
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Basic AutoCad App VB\Traning Visual Basic - v1\bin\Debug\BasicAutoCadApp.pdb
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Basic AutoCad App VB\Traning Visual Basic - v1\bin\Debug\BasicAutoCadApp.xml
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Basic AutoCad App VB\Traning Visual Basic - v1\obj\Debug\NS_BasicAutoCadApp.BasicAutoCadApp.resources
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Basic AutoCad App VB\Traning Visual Basic - v1\obj\Debug\NS_BasicAutoCadApp.Resources.resources
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Basic AutoCad App VB\Traning Visual Basic - v1\obj\Debug\BasicAutoCadApp.vbproj.GenerateResource.cache
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Basic AutoCad App VB\Traning Visual Basic - v1\obj\Debug\BasicAutoCadApp.vbproj.CoreCompileInputs.cache
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Basic AutoCad App VB\Traning Visual Basic - v1\obj\Debug\BasicAutoCadApp.exe
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Basic AutoCad App VB\Traning Visual Basic - v1\obj\Debug\BasicAutoCadApp.xml
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Basic AutoCad App VB\Traning Visual Basic - v1\obj\Debug\BasicAutoCadApp.pdb

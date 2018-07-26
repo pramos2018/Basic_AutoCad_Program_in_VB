@@ -1,0 +1,40 @@
+C:\Users\cliente\Documents\Visual Studio 2012\Projects\Traning Visual Basic - v1\Traning Visual Basic - v1\bin\Debug\Traning Visual Basic - v1.exe.config
+C:\Users\cliente\Documents\Visual Studio 2012\Projects\Traning Visual Basic - v1\Traning Visual Basic - v1\obj\Debug\Traning_Visual_Basic___v1.Form1.resources
+C:\Users\cliente\Documents\Visual Studio 2012\Projects\Traning Visual Basic - v1\Traning Visual Basic - v1\obj\Debug\Traning_Visual_Basic___v1.Form2.resources
+C:\Users\cliente\Documents\Visual Studio 2012\Projects\Traning Visual Basic - v1\Traning Visual Basic - v1\obj\Debug\Traning_Visual_Basic___v1.Resources.resources
+C:\Users\cliente\Documents\Visual Studio 2012\Projects\Traning Visual Basic - v1\Traning Visual Basic - v1\obj\Debug\Traning Visual Basic - v1.vbproj.GenerateResource.Cache
+C:\Users\cliente\Documents\Visual Studio 2012\Projects\Traning Visual Basic - v1\Traning Visual Basic - v1\bin\Debug\Traning Visual Basic - v1.exe
+C:\Users\cliente\Documents\Visual Studio 2012\Projects\Traning Visual Basic - v1\Traning Visual Basic - v1\bin\Debug\Traning Visual Basic - v1.pdb
+C:\Users\cliente\Documents\Visual Studio 2012\Projects\Traning Visual Basic - v1\Traning Visual Basic - v1\bin\Debug\Traning Visual Basic - v1.xml
+C:\Users\cliente\Documents\Visual Studio 2012\Projects\Traning Visual Basic - v1\Traning Visual Basic - v1\obj\Debug\Traning Visual Basic - v1.exe
+C:\Users\cliente\Documents\Visual Studio 2012\Projects\Traning Visual Basic - v1\Traning Visual Basic - v1\obj\Debug\Traning Visual Basic - v1.xml
+C:\Users\cliente\Documents\Visual Studio 2012\Projects\Traning Visual Basic - v1\Traning Visual Basic - v1\obj\Debug\Traning Visual Basic - v1.pdb
+C:\Users\cliente\Documents\Visual Studio 2012\Projects\Traning Visual Basic - v1\Traning Visual Basic - v1\obj\Debug\Traning_Visual_Basic___v1.Form3.resources
+C:\Users\cliente\Documents\Visual Studio 2012\Projects\Traning Visual Basic - v1\Traning Visual Basic - v1\obj\Debug\Traning_Visual_Basic___v1.Form4.resources
+C:\Users\cliente\Documents\Visual Studio 2012\Projects\Traning Visual Basic - v1\Traning Visual Basic - v1\obj\Debug\Traning_Visual_Basic___v1.Form5.resources
+C:\Users\cliente\Documents\Visual Studio 2012\Projects\Traning Visual Basic - v1\Traning Visual Basic - v1\obj\Debug\Traning_Visual_Basic___v1.Form6.resources
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Traning Visual Basic - v1\Traning Visual Basic - v1\bin\Debug\Traning Visual Basic - v1.exe.config
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Traning Visual Basic - v1\Traning Visual Basic - v1\bin\Debug\Traning Visual Basic - v1.exe
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Traning Visual Basic - v1\Traning Visual Basic - v1\bin\Debug\Traning Visual Basic - v1.pdb
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Traning Visual Basic - v1\Traning Visual Basic - v1\bin\Debug\Traning Visual Basic - v1.xml
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Traning Visual Basic - v1\Traning Visual Basic - v1\obj\Debug\Traning Visual Basic - v1.vbprojAssemblyReference.cache
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Traning Visual Basic - v1\Traning Visual Basic - v1\obj\Debug\Traning_Visual_Basic___v1.MainMenu.resources
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Traning Visual Basic - v1\Traning Visual Basic - v1\obj\Debug\Traning_Visual_Basic___v1.BasicCalculator.resources
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Traning Visual Basic - v1\Traning Visual Basic - v1\obj\Debug\Traning_Visual_Basic___v1.BasicTicTacToe.resources
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Traning Visual Basic - v1\Traning Visual Basic - v1\obj\Debug\Traning_Visual_Basic___v1.BasicVisiCalcApp.resources
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Traning Visual Basic - v1\Traning Visual Basic - v1\obj\Debug\Traning_Visual_Basic___v1.BasicPaintApp.resources
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Traning Visual Basic - v1\Traning Visual Basic - v1\obj\Debug\Traning_Visual_Basic___v1.BasicAutoCadApp.resources
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Traning Visual Basic - v1\Traning Visual Basic - v1\obj\Debug\Traning_Visual_Basic___v1.Resources.resources
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Traning Visual Basic - v1\Traning Visual Basic - v1\obj\Debug\Traning Visual Basic - v1.vbproj.GenerateResource.cache
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Traning Visual Basic - v1\Traning Visual Basic - v1\obj\Debug\Traning Visual Basic - v1.vbproj.CoreCompileInputs.cache
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Traning Visual Basic - v1\Traning Visual Basic - v1\obj\Debug\Traning Visual Basic - v1.exe
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Traning Visual Basic - v1\Traning Visual Basic - v1\obj\Debug\Traning Visual Basic - v1.xml
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Traning Visual Basic - v1\Traning Visual Basic - v1\obj\Debug\Traning Visual Basic - v1.pdb
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Basic AutoCad App VB\Traning Visual Basic - v1\obj\Debug\Traning Visual Basic - v1.vbprojAssemblyReference.cache
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Basic AutoCad App VB\Traning Visual Basic - v1\obj\Debug\Traning_Visual_Basic___v1.BasicAutoCadApp.resources
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Basic AutoCad App VB\Traning Visual Basic - v1\obj\Debug\Traning_Visual_Basic___v1.Resources.resources
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Basic AutoCad App VB\Traning Visual Basic - v1\obj\Debug\Traning Visual Basic - v1.vbproj.GenerateResource.cache
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Basic AutoCad App VB\Traning Visual Basic - v1\obj\Debug\Traning Visual Basic - v1.vbproj.CoreCompileInputs.cache
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Basic AutoCad App VB\Traning Visual Basic - v1\obj\Debug\Traning Visual Basic - v1.exe
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Basic AutoCad App VB\Traning Visual Basic - v1\obj\Debug\Traning Visual Basic - v1.xml
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Basic AutoCad App VB\Traning Visual Basic - v1\obj\Debug\Traning Visual Basic - v1.pdb
